@@ -1,0 +1,10 @@
+INSERT INTO Projects (title, description, status_id, researcher_id) VALUES ('Climate Change Effects', 'Studying the impact of climate change on coastal regions.', 1, 101);
+INSERT INTO Projects (title, description, status_id, researcher_id) VALUES ('Renewable Energy Development', 'Exploring innovative solar energy solutions.', 2, 102);
+INSERT INTO Projects (title, description, status_id, researcher_id) VALUES ('Artificial Intelligence in Healthcare', 'Using AI to improve diagnostic accuracy.', 1, 103);
+INSERT INTO Projects (title, description, status_id, researcher_id) VALUES ('Quantum Computing Research', 'Advancements in quantum computing algorithms.', 2, 104);
+INSERT INTO Projects (title, description, status_id, researcher_id) VALUES ('Ocean Biodiversity', 'Documenting new marine species in the Pacific Ocean.', 1, 105);
+INSERT INTO Projects (title, description, status_id, researcher_id) VALUES ('Historical Data Analysis', 'Using big data to analyze historical events.', 3, 106);
+INSERT INTO Projects (title, description, status_id, researcher_id) VALUES ('Cybersecurity Trends', 'Evaluating the latest trends in cybersecurity.', 1, 107);
+INSERT INTO Projects (title, description, status_id, researcher_id) VALUES ('Space Exploration Technologies', 'Developing new technologies for deep space exploration.', 2, 108);
+INSERT INTO Projects (title, description, status_id, researcher_id) VALUES ('Urban Sustainability Practices', 'Assessing sustainability practices in urban planning.', 1, 109);
+INSERT INTO Projects (title, description, status_id, researcher_id) VALUES ('Genetic Engineering Ethics', 'Debating the ethical implications of genetic engineering.', 3, 110);
